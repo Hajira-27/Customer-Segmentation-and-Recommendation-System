@@ -1,0 +1,5 @@
+Cluster,TotalCustomers,ClusterName,AvgPurchaseFrequency,AvgLifetimeValue,AvgTransactionValue,AvgUniqueProducts,AvgRecency
+0,3177,Regular Customers,4.89,1978.64,31.38,71.89,39.66
+1,1143,Budget Customers,1.56,544.23,53.47,23.8,240.57
+2,2,Premium VIP Customers,1.5,122828.05,66670.55,2.0,163.5
+3,16,High-Value Customers,75.62,108334.76,156.28,699.88,7.19
